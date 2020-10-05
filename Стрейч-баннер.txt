@@ -1,0 +1,62 @@
+Версия 1
+========
+<div class="fp-intro" style="background-image: url(images/news_images/potolokza30.png); background-size: cover;">
+<div class="g-grid" >
+	<div class="g-block size-100 center">
+		<div class="card">
+			<div class="card-block">
+			<h4 class="card-title"><a href="index.php/call-me" style="text-shadow: 2px 2px 2px #ffffff;font-size: 200%; color: #DC143C;line-height: 1;"><b>Натяжной потолок со скидкой 30%</b></a>*<br><br></h4>		
+			</div>
+		</div>
+	</div>
+	<div class="g-block size-50 center">
+		<div class="card">
+			<div class="card-block">
+			<p style="color:#000000; text-shadow: 1px 1px 1px #9966cc;line-height: 0.8;">Воспользуйтесь бесплатной услугой "Заказ звонка".<br>Мы перезвоним в удобное вам время.</p>
+			<a href="index.php/call-me" class="button"><b>Закажи звонок!</b></a>
+			</div>
+		</div>
+	</div>
+	<div class="g-block size-50 center">
+		<div class="card">
+			<div class="card-block">
+			<p style="color:#000000; text-shadow: 1px 1px 1px #9966cc;line-height: 0.8">Запишись на бесплатный замер в удобное время.<br>Бесплатно по городу Ульяновску и Ульяновской области.</p>
+			<a href="index.php/measurement-me" class="button"><b>Запишись на замер!</b></a>
+			</div>
+		</div>
+	</div>
+</div>
+<p class="center" style="color:#ffffff; font-size: 120%; text-shadow: 1px 1px 1px #000000;line-height: 0.8"><b>* Подробнее  о проведении акции уточняйте у менеджеров.<b></p>
+</div>
+
+
+Версия 2
+========
+<div class="fp-intro" style="background-repeat:no-repeat; background-image: url(images/news_images/potolokza30.png); background-size: cover;">
+<div class="g-grid" >
+	<div class="g-block size-100 center">
+		<div class="card">
+			<div class="card-block">
+			<h4 class="card-title"><a href="index.php/call-me" style="text-shadow: 2px 2px 2px #ffffff;font-size: 3vw; color: #DC143C;line-height:normal;"><b>Натяжной потолок со скидкой 30%</b>*</a></h4>
+			</div>
+		</div>
+	</div>
+	<div class="g-block size-50 center">
+		<div class="card">
+			<div class="card-block" style="font-size: 0.8vw;">
+			<p style="color:#000000; text-shadow: 1px 1px 1px #9966cc; line-height:normal;">Воспользуйтесь бесплатной услугой "Заказ звонка".<br>Мы перезвоним в удобное вам время.</p>
+			<a href="index.php/call-me" class="button button-xsmall"><b>Закажи звонок!</b></a>
+			</div>
+		</div>
+	</div>
+	<div class="g-block size-50 center">
+		<div class="card">
+			<div class="card-block" style="font-size: 0.8vw;">
+			<p style="color:#000000; text-shadow: 1px 1px 1px #9966cc; line-height:normal;">Запишись на бесплатный замер в удобное время.<br>Бесплатно по городу Ульяновску и Ульяновской области.</p>
+			<a href="index.php/measurement-me" class="button button-xsmall"><b>Запишись на замер!</b></a>
+			</div>
+		</div>
+	</div>
+</div>
+<p class="center" style="color:#ffffff; font-size: 1vw; text-shadow: 1px 1px 1px #000000;"><b>* Подробнее  о проведении акции уточняйте у менеджеров.<b></p>
+</div>
